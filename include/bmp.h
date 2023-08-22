@@ -30,7 +30,7 @@ typedef struct tagBITMAPINFO {
     uint32_t biClrImportant;
 } BITMAPINFO;
 
-typedef struct tagPIXEL {  // структура для записи каждоо пикселя картинки bmp
+typedef struct tagPIXEL {  // структура для записи каждого пикселя картинки bmp
     uint8_t blue;  // цветове каналы пикселя идут именно в таком порядке в bmp
     uint8_t green;  
     uint8_t red;
