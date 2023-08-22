@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "bmp.c"
-#include "stego.c"
+#include "bmp.h"
+#include "stego.h"
 
 
 int main(int argc, char** argv) {
